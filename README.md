@@ -18,3 +18,19 @@ https://adventofcode.com/2020/about
 
 - written in SQL (tested and executed on a PostgreSQL DB)
 - run: `cd day02 && make` (expects to be able to connect to a DB with `psql` and to be allowed to create a `aoc_day2_input` table)
+
+## Day 03
+
+### Star 1
+[![Language](https://img.shields.io/badge/Language-awk-yellowgreen)](https://en.wikipedia.org/wiki/AWK)
+
+- written in `awk`
+- run: `cd day03 && make star1`
+
+### Star 2
+[![Language](https://img.shields.io/badge/Language-bash-yellowgreen)](https://www.gnu.org/software/bash/)
+[![Language](https://img.shields.io/badge/Language-grep-yellowgreen)](https://www.gnu.org/software/grep/)
+[![Language](https://img.shields.io/badge/Language-coreutils-yellowgreen)](https://www.gnu.org/software/coreutils/)
+
+- written in `bash` (ab)using various UNIX tools
+- run: `cd day03 && make star2`
