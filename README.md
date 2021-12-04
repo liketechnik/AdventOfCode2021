@@ -34,3 +34,11 @@ https://adventofcode.com/2020/about
 
 - written in `bash` (ab)using various UNIX tools
 - run: `cd day03 && make star2`
+
+## Day 04
+[![Language](https://img.shields.io/badge/Language-nix-yellowgreen)](https://nixos.org/)
+
+- written in `Nix`, inspired by https://github.com/jonringer/AoC2021
+- run: `cd day04 && make star1` (outputs both solutions)
+
+
