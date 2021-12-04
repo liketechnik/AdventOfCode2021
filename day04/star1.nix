@@ -85,4 +85,4 @@ let
   sum = lib.lists.foldl (sum: field: sum + (if (!field.drawn) then field.value else 0)) 0 winningBoard.content;
   sumLoosing = lib.lists.foldl (sum: field: sum + (if (!field.drawn) then field.value else 0)) 0 loosingBoard.content;
 in 
-  { draw = winningState.draw; sum = sum; finalScore = sum * winningState.draw; loosingSum = sumLoosing; loosingDraw = loosingBoard.draw; loosingFinalScore = sumLoosing * loosingBoard.draw; boardNumbers=builtins.map(board: board.number) boards; loosingBoard = loosingBoard;}
+  { draw = winningState.draw; sum = sum; finalScore = sum * winningState.draw; loosingSum = sumLoosing; loosingDraw = loosingBoard.draw; loosingFinalScore = sumLoosing * loosingBoard.draw; }
