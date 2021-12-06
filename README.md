@@ -41,4 +41,8 @@ https://adventofcode.com/2020/about
 - written in `Nix`, inspired by https://github.com/jonringer/AoC2021
 - run: `cd day04 && make star1` (outputs both solutions)
 
+## Day 05
+[![Language](https://img.shields.io/badge/Language-Guile-yellowgreen)](https://www.gnu.org/software/guile/)
 
+- written in `Guile`, a [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language) implementation, which itself is a [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) dialect 
+- run: `cd day05 && make` 
