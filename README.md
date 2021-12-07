@@ -53,3 +53,9 @@ https://adventofcode.com/2020/about
 - written in `OCaml`
 - run: `cd day06 && make`
 - alternative: `cd day06 && make listbased` (only works for the first star though)
+
+## Day 07
+[![Language](https://img.shields.io/badge/Language-Ada-yellowgreen)](https://www.adaic.org/)
+
+- written in `Ada`
+- run: `cd day07 && make`
