@@ -46,3 +46,10 @@ https://adventofcode.com/2020/about
 
 - written in `Guile`, a [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language) implementation, which itself is a [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) dialect 
 - run: `cd day05 && make` 
+
+## Day 06
+[![Language](https://img.shields.io/badge/Language-OCaml-yellowgreen)](https://ocaml.org/)
+
+- written in `OCaml`
+- run: `cd day06 && make`
+- alternative: `cd day06 && make listbased` (only works for the first star though)
