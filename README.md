@@ -59,3 +59,10 @@ https://adventofcode.com/2020/about
 
 - written in `Ada`
 - run: `cd day07 && make`
+
+## Day 08
+[![Language](https://img.shields.io/badge/Language-Erlang-yellowgreen)](https://www.erlang.org/)
+
+- written in `Erlang`
+- run: `cd day08 && make`
+- the process of me thinking about possible ways to solve the problem for star2 is detailed in the `broken,` `testing_thoughts...` and `thinking...` files 

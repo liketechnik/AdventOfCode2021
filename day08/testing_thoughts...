@@ -1,0 +1,21 @@
+7=dab
+4=eafb
+1=ab
+8=abcdefg
+
+
+z=>dab-ab=d
+w=>abcdefg-eafb-d=cg
+x=>dab&eafb=ab
+y=>abcdefg-cg-ab-d=ef
+cdfbe->x2=a;x1=b
+cdfbe->w1=g;w2=c
+cagedb->y2=f;y1=e
+
+ dddd
+e    a
+e    a
+ ffff
+g    b
+g    b
+ cccc

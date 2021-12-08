@@ -1,0 +1,40 @@
+z="d";w="eg";x="cb";y"fa";x1=b;x2=c;w1=g;w2=e;y1=f;y2=a
+
+ dddd
+f    c
+f    c 
+ aaaa
+g    b
+g    b
+ eeee
+
+ OOOO
+O    O
+O    O
+ OOOO
+O    .
+O    .
+ OOOO
+
+ acdefg
+
+ OOOO
+.    O
+.    O
+ OOOO
+.    O
+.    O
+ OOOO
+
+                            {{[["bc"|1]],
+                                  [],
+                                  [["abcde"|3]],
+                                  [["abcf"|4],["abcdefg"|8]],
+                                  [],[],[],[],
+                                  [["abcdef"|9]],
+                                  [["abdef"|5]],
+                                  [],
+                                  [["acdeg"|2]],
+                                  [["abdefg"|6],["bcd"|7]],
+                                  [],
+                                  [["bcdefg"|0]],

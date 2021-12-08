@@ -46,6 +46,27 @@
 
             # day 7
             gnat
+
+            # day 8
+            # gleam maybe some time later...
+            # (pkgs.rustPlatform.buildRustPackage rec {
+            #   pname = pkgs.gleam.pname;
+            #   version = "0.18.0";
+            #   src = fetchFromGitHub {
+            #     owner = "gleam-lang";
+            #     repo = pname;
+            #     rev = "v${version}";
+            #     sha256 = "sha256-S7PYN0iiSXEApIG0Tyb/PJmKjHzjz3S+ToDy+pwPK18=";
+            #   };
+            #   cargoSha256 = "sha256-Q5WyKQ4HFOIL1KAQ0QvAbZfy+WRAWf9HxSvSabSz4W4=";
+
+            #   nativeBuildInputs = pkgs.gleam.nativeBuildInputs;
+
+            #   buildInputs = pkgs.gleam.buildInputs;
+
+            #   meta = pkgs.gleam.meta;
+            # })
+            erlang
           ]);
         };
       }

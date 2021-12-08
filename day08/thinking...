@@ -1,0 +1,38 @@
+3=>7: dab
+4=>4: eafb
+2=>1: ab
+
+7-1=> z
+8-z-4=>w
+7&4=> x
+8-x-w-z=> y
+*only* part of x + len(6)=> x1
+*only* part of w=> w2
+*only* part of y + len(6)=>y1
+
+ zzzz
+y    x2
+1    x2
+ y2y2
+w    x1
+1    x1
+ w2w2
+
+
+fbegcd cbd adcefb dageb afcb bc aefdc ecdab fgdeca fcdbega
+7: cbd
+4: afcb
+1: bc
+8: fcdbega
+
+z=d
+w=eg
+x=cb
+y=fa
+
+x1=b;x2=c
+w2=e;w1=g
+y1=f;y2=a
+z="d";w="eg";x="cb";y"fa";x1=b;x2=c;w1=g;w2=e;y1=f;y2=a
+
+
