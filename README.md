@@ -1,7 +1,7 @@
 # Advent of Code 2021
 
 [![About](https://img.shields.io/badge/Advent%20of%20Code%20🎄-2021-brightgreen)](https://adventofcode.com/2021/about)
-[![Days completed](https://img.shields.io/badge/day%20📅-7-blue)](https://adventofcode.com/2021)
+[![Days completed](https://img.shields.io/badge/day%20📅-8-blue)](https://adventofcode.com/2021)
 [![Stars](https://img.shields.io/badge/stars%20⭐-14-yellow)](https://adventofcode.com/2021/stats)
 
 https://adventofcode.com/2020/about
